@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @NerdLock
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<pre>
+$ > Whoami    
+        hostname:    NerdLock@lsblk
+        year:        19,00
+        user:        Jean
+        Learning:    C, Java
+        Course:      Engenharia de Software (FAG)
+        System:      Windows/Linux
 
-<!---
-NerdLock/NerdLock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+$ > cat Information.txt
+
+    Olá Jovem Padawan!
+    Como vai ? Prazer! Meu Nome é Jean, atualmente tenho 19 anos, sou estudante de engenharia de Software.
+    Estou iniciando nesse mundo da programação agora praticamente engatinhando kkk :D, Mais devagar aprendendo 
+    Atualmente Estou aprendendo Duas Linguagem de Programação sendo elas C e Java.
+
+    Criei este GitHub. para poder postar futuros projetinhos que viram ao ar e como sou novo nessa caminhada.
+    Qualquer idea de Projeto que possa me ensinar a evoluir mais será muito bem vinda.
+
+<pre>
+
+
