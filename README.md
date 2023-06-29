@@ -1,22 +1,25 @@
-<pre>
-$ > Whoami    
-        hostname:    NerdLock@lsblk
-        year:        19,00
-        user:        Jean
-        Learning:    C, Java
-        Course:      Engenharia de Software (FAG)
-        System:      Windows/Linux
+```console
+root@localhost # cat hello.txt
+    ___       ___            ___       ___       ___       ___       ___   
+   /\__\     /\  \          /\  \     /\__\     /\  \     /\  \     /\  \  
+  /:/__/_   _\:\  \         \:\  \   /:/__/_   /::\  \   /::\  \   /::\  \ 
+ /::\/\__\ /\/::\__\        /::\__\ /::\/\__\ /::\:\__\ /::\:\__\ /::\:\__\
+ \/\::/  / \::/\/__/       /:/\/__/ \/\::/  / \:\:\/  / \;:::/  / \:\:\/  /
+   /:/  /   \:\__\         \/__/      /:/  /   \:\/  /   |:\/__/   \:\/  /   
+   \/__/     \/__/                    \/__/     \/__/     \|__|     \/__/   
 
-$ > cat Information.txt
+root@localhost # cat note.txt
+1. Sou um Novato na area de programação.
+2. Atuamente tenho conhecimento em C e Progress 4GL querendo iniciar em Segurança da Informação.
+3. Posso usar tanto Windows/Linux.
+4. Sim eu Aceito um copo de café, Obrigado!.
 
-    Olá Jovem Padawan!
-    Como vai ? Prazer! Meu Nome é Jean, atualmente tenho 19 anos, sou estudante de engenharia de Software.
-    Estou iniciando nesse mundo da programação agora praticamente engatinhando kkk :D, Mais devagar aprendendo 
-    Atualmente Estou aprendendo Duas Linguagem de Programação sendo elas C e Java.
+root@localhost # finger NerdLock
+Login: NerdLock                       Name: Jean c.
+Directory: /home/NerdLock             Shell: /usr/bin/bash
+Projeto:
+  - No Momento estou cursando Engenharia de Software.
+  - Trabalhar na escrita de testes para meus repositórios principais.
 
-    Criei este GitHub. para poder postar futuros projetinhos que viram ao ar e como sou novo nessa caminhada.
-    Qualquer idea de Projeto que possa me ensinar a evoluir mais será muito bem vinda.
-
-<pre>
-
+```
 
