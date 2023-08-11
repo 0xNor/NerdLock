@@ -10,7 +10,7 @@ root@localhost # cat hello.txt
 
 root@localhost # cat note.txt
 1. Sou um Novato na area de programação.
-2. Atuamente tenho conhecimento em C e Progress 4GL querendo iniciar em Segurança da Informação.
+2. Atuamente tenho conhecimento em C e Estudando Flutter.
 3. Posso usar tanto Windows/Linux.
 4. Sim eu Aceito um copo de café, Obrigado!.
 
